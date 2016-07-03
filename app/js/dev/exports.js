@@ -1,0 +1,2 @@
+window.SvgTetris = require('./SvgTetris');
+

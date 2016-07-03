@@ -1,0 +1,17 @@
+{
+  "name": "svg-tetris",
+  "version": "0.0.0",
+  "authors": [
+    "Rob Jinman <admin@robjinman.com>"
+  ],
+  "description": "A game of Tetris",
+  "license": "GPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor"
+  ],
+  "dependencies": {
+  }
+}
